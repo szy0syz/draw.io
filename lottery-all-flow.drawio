@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-26T01:37:29.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Ig2WDy7lWkHVv05zjrQW" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-26T02:09:56.280Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="2r0PV1uKnfoWtpWQBrFH" version="12.4.3" type="github" pages="1">
   <diagram id="ZQ9hvVZvNBJYVmyXXAFO" name="Page-1">
-    <mxGraphModel dx="1181" dy="599" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="874" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -57,7 +57,7 @@
         <mxCell id="WEjBrDBe1VnxncM8H6Ck-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF0000;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="WEjBrDBe1VnxncM8H6Ck-23" target="WEjBrDBe1VnxncM8H6Ck-4" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="WEjBrDBe1VnxncM8H6Ck-119" value="有人扫码&lt;br&gt;广播新码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontSize=9;" parent="WEjBrDBe1VnxncM8H6Ck-93" vertex="1" connectable="0">
+        <mxCell id="WEjBrDBe1VnxncM8H6Ck-119" value="有人扫码&lt;br&gt;回写新码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontSize=9;" parent="WEjBrDBe1VnxncM8H6Ck-93" vertex="1" connectable="0">
           <mxGeometry x="-0.1758" y="1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -125,25 +125,31 @@
           <mxGeometry width="220" height="220" as="geometry"/>
         </mxCell>
         <mxCell id="WEjBrDBe1VnxncM8H6Ck-69" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apple_classic" parent="WEjBrDBe1VnxncM8H6Ck-81" vertex="1">
-          <mxGeometry x="83.5" y="29" width="20" height="20" as="geometry"/>
+          <mxGeometry x="83.5" y="19" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WEjBrDBe1VnxncM8H6Ck-71" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.amazon" parent="WEjBrDBe1VnxncM8H6Ck-81" vertex="1">
-          <mxGeometry x="175" y="28.9999999999998" width="20" height="20" as="geometry"/>
+          <mxGeometry x="175" y="18.9999999999998" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WEjBrDBe1VnxncM8H6Ck-72" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" parent="WEjBrDBe1VnxncM8H6Ck-81" vertex="1">
-          <mxGeometry x="57" y="59" width="20" height="20" as="geometry"/>
+          <mxGeometry x="32" y="53" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WEjBrDBe1VnxncM8H6Ck-74" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.bookmarks.fr" parent="WEjBrDBe1VnxncM8H6Ck-81" vertex="1">
-          <mxGeometry x="133" y="29" width="20" height="20" as="geometry"/>
+          <mxGeometry x="133" y="19" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WEjBrDBe1VnxncM8H6Ck-75" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.buzzfeed;fillColor=#ED3223;strokeColor=none" parent="WEjBrDBe1VnxncM8H6Ck-81" vertex="1">
-          <mxGeometry x="33" y="29" width="20" height="20" as="geometry"/>
+          <mxGeometry x="33" y="19" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WEjBrDBe1VnxncM8H6Ck-76" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.designfloat;strokeColor=none" parent="WEjBrDBe1VnxncM8H6Ck-81" vertex="1">
-          <mxGeometry x="155" y="58.999999999999886" width="20" height="20" as="geometry"/>
+          <mxGeometry x="175" y="53.000000000000014" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="WEjBrDBe1VnxncM8H6Ck-77" value="滚动摇奖，摇出大奖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="WEjBrDBe1VnxncM8H6Ck-81" vertex="1">
+        <mxCell id="WEjBrDBe1VnxncM8H6Ck-77" value="滚动摇奖，显示大奖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="WEjBrDBe1VnxncM8H6Ck-81" vertex="1">
           <mxGeometry x="49" y="99" width="119" height="19" as="geometry"/>
+        </mxCell>
+        <mxCell id="-kljzyaK-KWhkCO0UmkW-14" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="WEjBrDBe1VnxncM8H6Ck-81">
+          <mxGeometry x="83.5" y="53" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-kljzyaK-KWhkCO0UmkW-16" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.feedburner" vertex="1" parent="WEjBrDBe1VnxncM8H6Ck-81">
+          <mxGeometry x="133" y="53" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WEjBrDBe1VnxncM8H6Ck-83" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="387.5" y="206" width="77" height="70" as="geometry"/>
@@ -157,7 +163,7 @@
         <mxCell id="WEjBrDBe1VnxncM8H6Ck-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF0000;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="WEjBrDBe1VnxncM8H6Ck-10" target="WEjBrDBe1VnxncM8H6Ck-8" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="WEjBrDBe1VnxncM8H6Ck-107" value="开始摇奖，返回大奖号码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" parent="WEjBrDBe1VnxncM8H6Ck-92" vertex="1" connectable="0">
+        <mxCell id="WEjBrDBe1VnxncM8H6Ck-107" value="控制摇奖机运转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" parent="WEjBrDBe1VnxncM8H6Ck-92" vertex="1" connectable="0">
           <mxGeometry x="0.0402" y="1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -241,7 +247,10 @@
           <mxGeometry x="404.14" y="106" width="18" height="18" as="geometry"/>
         </mxCell>
         <mxCell id="-kljzyaK-KWhkCO0UmkW-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/view-refresh-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="536" y="112" width="18" height="18" as="geometry"/>
+          <mxGeometry x="465" y="224" width="18" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="-kljzyaK-KWhkCO0UmkW-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/view-refresh-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="352" y="221" width="18" height="18" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
